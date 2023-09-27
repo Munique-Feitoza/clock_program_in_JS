@@ -1,2 +1,2 @@
-# clock_program_in_JS
+# Clock program
 A day/clock program in JavaScript, all in English.
